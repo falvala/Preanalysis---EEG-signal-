@@ -20,10 +20,11 @@
 
 %  Fátima Alvarez (UAM) 04/2023: Script updated from previous' Luis Carretié (UAM)script 
 
+
+%% Descomentar
 % Set fieltrip last version:
 % 
 % restoredefaultpath 
-% % addpath C:\Psicofis\fieldtrip-20221212 % añadir versión más reciente
 % addpath C:\Psicofis\fieldtrip-20230128; %add with subfolders
 % ft_defaults
 % addpath('C:\**\**\**') %añadir carpeta con script de análisis
